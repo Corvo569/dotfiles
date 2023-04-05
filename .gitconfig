@@ -6,3 +6,5 @@
 [user]
     name = Corvo569
     email = 873848837@qq.com
+[includeIf "gitdir:~/Documents/workspace-company"]
+    path = .gitconfig-company
