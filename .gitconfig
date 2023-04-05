@@ -1,0 +1,8 @@
+[pull]
+    rebase = true
+[alias]
+    lg = lg1
+    lg1 = lg1-specific
+[user]
+    name = Corvo569
+    email = 873848837@qq.com
